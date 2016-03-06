@@ -3,6 +3,7 @@
 	"name":"webpack-demo",
 	"devDependencies": {
 		"style-loader": "^0.13.0",
-		"css-loader": "^0.18.0"
+		"css-loader": "^0.18.0",
+		"webpack":"^1.12.14"
 	}
 }
