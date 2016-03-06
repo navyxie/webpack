@@ -1,0 +1,8 @@
+{
+	"version":"0.0.0",
+	"name":"webpack-demo",
+	"devDependencies": {
+		"style-loader": "^0.13.0",
+		"css-loader": "^0.18.0"
+	}
+}
