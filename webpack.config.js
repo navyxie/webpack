@@ -19,7 +19,8 @@ module.exports = {
     },
     module: {
         loaders: [
-            { test: /\.css$/, loader: "style!css" }
+            { test: /\.css$/, loader: "style!css" },
+            { test: require.resolve("./alert.js"),  loader: "exports?at"}
         ]
     },
     resolve:{
