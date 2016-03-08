@@ -19,3 +19,12 @@
 总结：
 
 - node的版本低于0.12.x时，css-loader版本应低于0.18.x,不然会出现报错：Module build failed: ReferenceError: Promise is not defined
+
+
+## referrer
+
+- [http://www.cnblogs.com/vajoy/p/4650467.html](http://www.cnblogs.com/vajoy/p/4650467.html)
+- [https://webpack.github.io/docs/tutorials/getting-started/](https://webpack.github.io/docs/tutorials/getting-started/)
+- [https://segmentfault.com/a/1190000002551952](https://segmentfault.com/a/1190000002551952)
+- [http://www.infoq.com/cn/articles/react-and-webpack](http://www.infoq.com/cn/articles/react-and-webpack)
+- [http://www.html-js.com/article/2931](http://www.html-js.com/article/2931)
