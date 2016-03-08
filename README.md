@@ -28,3 +28,4 @@
 - [https://segmentfault.com/a/1190000002551952](https://segmentfault.com/a/1190000002551952)
 - [http://www.infoq.com/cn/articles/react-and-webpack](http://www.infoq.com/cn/articles/react-and-webpack)
 - [http://www.html-js.com/article/2931](http://www.html-js.com/article/2931)
+- [http://code.oneapm.com/javascript/2015/07/07/webpack_performance_1/](http://code.oneapm.com/javascript/2015/07/07/webpack_performance_1/)
